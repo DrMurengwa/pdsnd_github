@@ -19,8 +19,7 @@ a **Jupyter Notebook**
 
 
 ### Credits
-I appreciate the ggplot2 tutorial by Thomas Pedersen [here]
-(https://youtu.be/h29g21z0a68)
+I appreciate the ggplot2 tutorial by Thomas Pedersen [here](https://youtu.be/h29g21z0a68)
 The textbook _R for Data Science_ by Hadley Wickham & Garrett Grolemund
 was pivotal in my further understanding of concepts
 
