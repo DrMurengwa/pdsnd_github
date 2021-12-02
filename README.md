@@ -5,7 +5,9 @@ Thursday 02 December 2021
 **EDA of the Bikeshare Data Files in R**
 
 ### Description
-Describe what your project is about and what it does
+This is exploratory data analysis of the Motivate dataset submited as
+a project for the R course in Udacity's _Introduction to Programing 
+for Data Science_ [syllabus here](https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118)
 
 ### Files used
 Include the files used
